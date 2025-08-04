@@ -5,4 +5,6 @@
 
     $user->logout();
 
+    //This is logout version2
+
 ?>
